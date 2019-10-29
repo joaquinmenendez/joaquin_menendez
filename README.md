@@ -3,11 +3,6 @@
 :house: 2748 Campus Walk Av., Durham, NC. :telephone_receiver:(984) 215 8560 :email: jm622@duke.edu 
 </p>
 
-![Google Scholar profile](https://scholar.google.ch/favicon-png.ico)[Google Scholar profile](https://scholar.google.com/) ![Linkedin profile](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)[Likedin profile](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US)
-
-
-
-
 <h2>EDUCATION</h2>
 <b>Duke University, North Carolina, United States</b><br>
 <b>Master in Interdisciplinary Data Science (MIDS) - Fulbright Scholarship</b> | <i>Aug 2018 - May 2020</i><br>
@@ -84,5 +79,7 @@ Awarded to top undergraduate student in a National University
 Full scholarship to attend a semester at the Autonomous University of Madrid as 
 exchange student.  Chosen as a recipient due to academic merit.
 
+----
 
-
+![Google Scholar profile](https://scholar.google.ch/favicon-png.ico)[Google Scholar profile](https://scholar.google.com/) 
+![Linkedin profile](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)[Likedin profile](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US)

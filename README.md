@@ -79,6 +79,8 @@ Awarded to top undergraduate student in a National University
 Full scholarship to attend a semester at the Autonomous University of Madrid as 
 exchange student.  Chosen as a recipient due to academic merit.
 
-> [![Google Scholar profile](https://scholar.google.ch/favicon-png.ico)](https://scholar.google.com/citations?user=QXAVig4AAAAJ&hl=en) | [Google Scholar profile](https://scholar.google.com/citations?user=QXAVig4AAAAJ&hl=en)  <br>
-> [![Linkedin profile](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US) | [Likedin profile](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US)
+----
+
+[Google Scholar profile](https://scholar.google.com/citations?user=QXAVig4AAAAJ&hl=en) [![Google Scholar profile](https://scholar.google.ch/favicon-png.ico)](https://scholar.google.com/citations?user=QXAVig4AAAAJ&hl=en)  <br>
+[Likedin profile](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US)  [![Linkedin profile](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US) 
 

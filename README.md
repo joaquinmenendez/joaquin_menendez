@@ -7,7 +7,7 @@
     <b>Master in Interdisciplinary Data Science (MIDS) - Fulbright Scholarship</b>
     <span style="float:right;">
         Aug 2018 - May 2020
-    </span>
+    </span><br>
 Coursework: Data Scrapping & Text Analysis, Modelling & Representation of Data, 
 Data Management System, Machine Learning, Data logic & Visualization, Data to Decision, Data Ethics, EHR and mobile devices, Statistical programming for big data, Tools for data science <br>	
 		

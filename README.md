@@ -3,7 +3,7 @@
 <right>:house: 2748 Campus Walk Av., Durham, NC.<right> </center>:telephone_receiver:(984) 215 8560</center>    <left>:email: jm622@duke.edu</left><br>
 
 ---
-<h2>EDUCATION</h2></br>
+## EDUCATION</br>
 <b>Duke University, North Carolina, United States</b><br>
 <b>Master in Interdisciplinary Data Science (MIDS) - Fulbright Scholarship</b> <left>Aug 2018 - May 2020</left><br>
 Coursework: Data Scrapping & Text Analysis, Modelling & Representation of Data, 

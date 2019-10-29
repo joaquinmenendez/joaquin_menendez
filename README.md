@@ -1,8 +1,6 @@
 <h1><p align="center">Joaquin Menendez</p></h1>
 
-<p align="right">:house: 2748 Campus Walk Av., Durham, NC.</p>
-<p align="center">:telephone_receiver:(984) 215 8560</p>
-<p align="left">:email: jm622@duke.edu</p>
+<p align="center">:house: 2748 Campus Walk Av., Durham, NC.	:telephone_receiver:(984) 215 8560	:email: jm622@duke.edu </p><br>
 
 ---
 ## EDUCATION</br>

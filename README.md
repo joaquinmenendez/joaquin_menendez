@@ -1,9 +1,15 @@
 <h1><p align="center">Joaquin Menendez</p></h1>
 
-<p align="center">:house: 2748 Campus Walk Av., Durham, NC.		:telephone_receiver:(984) 215 8560		:email: jm622@duke.edu </p><br>
----
+<p align="center">:house: 2748 Campus Walk Av., Durham, NC. :telephone_receiver:(984) 215 8560 :email: jm622@duke.edu </p><br>
 
-## EDUCATION</br>
+
+<h2>EDUCATION</h2>
+
+<b>Duke University, North Carolina, United States</b><br>
+<div class='container'>
+<div align="left"><b>Master in Interdisciplinary Data Science (MIDS) - Fulbright Scholarship</b></div><div align="right">Aug 2018 - May 2020 </div>
+</div>
+
 <b>Duke University, North Carolina, United States</b><br>
 <b>Master in Interdisciplinary Data Science (MIDS) - Fulbright Scholarship</b> <left>Aug 2018 - May 2020</left><br>
 Coursework: Data Scrapping & Text Analysis, Modelling & Representation of Data, 
@@ -15,4 +21,6 @@ Bachelor´s in Psychology (5-year program).
 <b>Autonomous University of Madrid (UAM), Madrid, Spain</b> <left>Jan. 2013/Jul - 2013</left> <br>
 School of Psychology, Spain. International exchange student - Santander Scholarship 
 
----
+
+
+

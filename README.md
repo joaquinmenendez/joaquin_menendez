@@ -3,7 +3,8 @@
 :house: 2748 Campus Walk Av., Durham, NC. :telephone_receiver:(984) 215 8560 :email: jm622@duke.edu 
 </p>
 
-![Google Scholar profile](https://scholar.google.ch/favicon-png.ico)[Google Scholar profile](https://scholar.google.com/)  ![Linkedin profile](https://cdn4.iconfinder.com/data/icons/social-media-2097/94/linkedin-128.png){:height="36px" width="36px"}[Likedin profile](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US)
+![Google Scholar profile](https://scholar.google.ch/favicon-png.ico)[Google Scholar profile](https://scholar.google.com/)  
+![Linkedin profile](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png){height="36px" width="36px"}[Likedin profile](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US)
 
 
 
@@ -51,10 +52,10 @@ I worked on a project that examined the association between social determinants 
 •	Assisted with experimental design, electroencephalographic and behavioral data collection, cleaning and analysis.<br> 	
 
 <h3>Teaching Assistant - “Behavioral biology”</h3> 
-<b>University of Buenos Aires, School of Psychology, Buenos Aires, Argentina</b> | <i>Mar 2014 - Jan 2015</i><br>			
+University of Buenos Aires, School of Psychology, Buenos Aires, Argentina | <i>Mar 2014 - Jan 2015</i><br>			
 
 <h3>Teaching Assistant - “Neurophysiology”</h3>
-<b>University of Buenos Aires, School of Psychology, Buenos Aires, Argentina<b/> | <i>Jul 2011 - Dec. 2012</i><br>		
+University of Buenos Aires, School of Psychology, Buenos Aires, Argentina | <i>Jul 2011 - Dec. 2012</i><br>		
 
 <h2>SCIENTIFIC PUBLICATIONS</h2> 
 

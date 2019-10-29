@@ -2,9 +2,9 @@
 <p align="center">
 :house: 2748 Campus Walk Av., Durham, NC. :telephone_receiver:(984) 215 8560 :email: jm622@duke.edu 
 </p>
-
+<center>
 ![Google Scholar profile](https://scholar.google.ch/favicon-png.ico)[Google Scholar profile](https://scholar.google.com/) 
-
+</center>
 
 
 

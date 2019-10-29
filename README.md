@@ -81,5 +81,5 @@ exchange student.  Chosen as a recipient due to academic merit.
 
 ----
 
-![Google Scholar profile](https://scholar.google.ch/favicon-png.ico)[Google Scholar profile](https://scholar.google.com/) 
+![Google Scholar profile](https://scholar.google.ch/favicon-png.ico)[Google Scholar profile](https://scholar.google.com/) <br>
 ![Linkedin profile](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)[Likedin profile](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US)

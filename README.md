@@ -2,6 +2,7 @@
 <p align="center">
 :house: 2748 Campus Walk Av., Durham, NC. :telephone_receiver:(984) 215 8560 :email: jm622@duke.edu 
 </p>
+
 ![Google Scholar profile](https://scholar.google.ch/favicon-png.ico)[Google Scholar profile](https://scholar.google.com/)  ![Linkedin profile](https://cdn4.iconfinder.com/data/icons/social-media-2097/94/linkedin-128.png){:height="36px" width="36px"}[Likedin profile](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US)
 
 

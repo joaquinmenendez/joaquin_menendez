@@ -60,9 +60,9 @@ University of Buenos Aires, School of Psychology, Buenos Aires, Argentina | <i>J
 [Google Scholar profile](https://scholar.google.com/citations?user=QXAVig4AAAAJ&hl=en)
 
 <h2>HONORS AND AWARDS</h2>  
+
 <b>Academic Mention 2017</b> | <i>October 2018</i><br>
-Recognition gave to lecturers that received an award from an external organization
-besides the University of Buenos Aires during the year 2017.<br>
+Recognition gave to lecturers that received an award from an external organization besides the University of Buenos Aires during the year 2017.<br>
 
 <b>Argentine Presidential Fellowship in Science and Technology Administered by the Argentine Fulbright Commission with support from LASPAU </b> | <i>June 2017</i><br>
 Fellowship to pursue a master´s degree in the United States starting Fall 2018.

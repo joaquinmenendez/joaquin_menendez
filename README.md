@@ -62,7 +62,7 @@ University of Buenos Aires, School of Psychology, Buenos Aires, Argentina | <i>J
 <h2>HONORS AND AWARDS</h2>  
 <b>Academic Mention 2017</b> | <i>October 2018</i><br>
 Recognition gave to lecturers that received an award from an external organization
-besides the University of Buenos Aires during the year 2017.
+besides the University of Buenos Aires during the year 2017.<br>
 
 <b>Argentine Presidential Fellowship in Science and Technology Administered by the Argentine Fulbright Commission with support from LASPAU </b>
 | <i>June 2017</i><br>
@@ -70,10 +70,11 @@ Fellowship to pursue a master´s degree in the United States starting Fall 2018.
 Funded by the Argentine President´s Cabinet and the U.S. Embassy of Buenos Aires.
 
 <b>Prominent Student 2013</b> | <i>November 2014</i>  
-University of Buenos Aires´s recognition to research activities during grade studies.
+University of Buenos Aires´s recognition to research activities during grade studies.<br>
+
 <b>National Interuniversity Council (CIN) Research Fellowship</b> | <i>August 2014</i><br>
 One-year grant to do research assistance in an investigation group at a National University.  
-Awarded to top undergraduate student in a National University
+Awarded to top undergraduate student in a National University<br>
 
 <b>UAM – Santander Scholarship</b> | <i>November 2013</i><br>
 Full scholarship to attend a semester at the Autonomous University of Madrid as 

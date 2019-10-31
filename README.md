@@ -13,7 +13,7 @@ Data Ethics, EHR and mobile devices, Data to Decision, Tools for data science <b
 <br>
 <b>University of Buenos Aires (UBA), Buenos Aires, Argentina</b> | <i>Mar 2009 - Nov 2014</i><br>
 Bachelor in Psychology (5-year program).<br>
-
+<br>
 <b>Autonomous University of Madrid (UAM), Madrid, Spain</b>  | <i>Jan 2013 - Jul 2013</i><br>
 International exchange student - Santander Scholarship
 

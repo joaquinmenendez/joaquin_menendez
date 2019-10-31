@@ -9,8 +9,8 @@
 Coursework: <br>
 Data scrapping & text analysis, Modelling & representation of data, Data management system,<br>
 Machine learning, Data logic & Visualization, Statistical programming for big data,<br>
-Data Ethics, EHR and mobile devices, Data to Decision, Tools for data science<br>
-
+Data Ethics, EHR and mobile devices, Data to Decision, Tools for data science <br>
+<br>
 <b>University of Buenos Aires (UBA), Buenos Aires, Argentina</b> | <i>Mar 2009 - Nov 2014</i><br>
 Bachelor in Psychology (5-year program).<br>
 

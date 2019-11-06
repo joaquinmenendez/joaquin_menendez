@@ -7,9 +7,9 @@
 <b>Duke University, North Carolina, United States</b><br>
 <b>Master in Interdisciplinary Data Science (MIDS) - Fulbright Scholarship</b> | <i>Aug 2018 - May 2020</i><br>
 Coursework: <br>
-Data scrapping & text analysis, Modelling & representation of data, Data management system,<br>
+<font size=6><i>Data scrapping & text analysis, Modelling & representation of data, Data management system,<br>
 Machine learning, Data logic & Visualization, Statistical programming for big data,<br>
-Data Ethics, EHR and mobile devices, Data to Decision, Tools for data science <br>
+Data Ethics, EHR and mobile devices, Data to Decision, Tools for data science </i><br></font>
 <br>
 <b>University of Buenos Aires (UBA), Buenos Aires, Argentina</b> | <i>Mar 2009 - Nov 2014</i><br>
 Bachelor in Psychology (5-year program).<br>

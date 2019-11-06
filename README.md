@@ -7,7 +7,7 @@
 <b>Duke University, North Carolina, United States</b><br>
 <b>Master in Interdisciplinary Data Science (MIDS) - Fulbright Scholarship</b> | <i>Aug 2018 - May 2020</i><br>
 Coursework: <br>
-<font size=6><i>Data scrapping & text analysis, Modelling & representation of data, Data management system,<br>
+<font size="6"><i>Data scrapping & text analysis, Modelling & representation of data, Data management system,<br>
 Machine learning, Data logic & Visualization, Statistical programming for big data,<br>
 Data Ethics, EHR and mobile devices, Data to Decision, Tools for data science </i><br></font>
 <br>

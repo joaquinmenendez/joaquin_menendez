@@ -1,3 +1,6 @@
+.gitignore
+./multimedia/README_for_PDF.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

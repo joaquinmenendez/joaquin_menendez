@@ -14,7 +14,7 @@ Machine learning, Data logic & Visualization, Statistical programming for big da
 Bachelor in Psychology<br>
 Teaching assistant positions:<br>
 - Neurophysiology | <i>Jul 2011 - Dec 2012</i><br>
-- Behavioral biology | <i>Mar 2014 - Jan 2015</i>
+- Behavioral biology | <i>Mar 2014 - Jan 2015</i><br>
 
 <b>Autonomous University of Madrid (UAM), Madrid, Spain - Santander Scholarship</b> | <i>Jan 2013 - Jul 2013</i><br>
 International exchange student

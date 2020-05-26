@@ -1,6 +1,6 @@
 <h1 align="center">Joaquin Menendez </h1>
 <p align="center">
-| :house: 2748 Campus Walk Av., Durham, NC. | :telephone_receiver:(984) 215 8560 | :email: jm622@duke.edu |
+| :house: Diógenes Taborda 610 - Capital Federal | :telephone_receiver:11-2255-5995 | :email: joaquin.menendez@duke.edu |
 </p>
 
 <h2>EDUCATION</h2>

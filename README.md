@@ -1,6 +1,6 @@
 <h1 align="center">Joaquin Menendez </h1>
 <p align="center">
-| :house: Diógenes Taborda 610 - Capital Federal | :telephone_receiver:11-2255-9559 | :email: joaquin.menendez@duke.edu |
+| :house: Fray Justo Santa Maria de Oro 2366 - Capital Federal | :telephone_receiver:11-2255-9559 | :email: joaquin.menendez@duke.edu |
 </p>
 
 <h2>EDUCATION</h2>

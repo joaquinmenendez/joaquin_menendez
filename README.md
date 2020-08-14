@@ -61,7 +61,7 @@ International exchange student
 <b>Databases:</b>  MySQL, Neo4j, Hadoop, Spark<br> 
 <b>Statistics:</b> R, SPSS<br>
 <b>Frameworks:</b> NumPy, SciPy, Pandas , Scikit-learn, dplyr, EEGLAB, MNE<br>
-<b>Visualization:</b> Tableau, Matplotlib, Seaborn, ggplot2, Plotly<br>
+<b>Visualization:</b> Tableau, PowerBI, Matplotlib, Seaborn, ggplot2, Plotly<br>
 <b>Cloud Computing:</b> AWS , Google Cloud <br>
 
 <h2>SCIENTIFIC PUBLICATIONS</h2> 

@@ -4,8 +4,10 @@
 </p>
 
 <h2>EDUCATION</h2>
+
 <b>Duke University, North Carolina, United States</b> | <i>Aug 2018 - May 2020</i><br>
 <b>Master in Interdisciplinary Data Science (MIDS) - Fulbright Scholarship</b><br> 
+
 
 
 <b>University of Buenos Aires (UBA), Buenos Aires, Argentina</b> | <i>Mar 2009 - Nov 2014</i><br>

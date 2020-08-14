@@ -24,6 +24,9 @@ International exchange student
 
 <h2>PROFESSIONAL EXPERIENCE</h2>
 
+<h3>Data Scientist - Healthcare Analytics</h3>
+<b>Departamento de Informática en Salud del Hospital Italiano </b> | <i>July 2020 - Present</i>
+
 <h3>Data Science Intern</h3>
 
 <b>Duke Forge, Durham, United States</b> | <i>May 2019 - Aug 2019</i> <br>

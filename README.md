@@ -9,10 +9,6 @@
 <b>Master in Interdisciplinary Data Science (MIDS) - Fulbright Scholarship</b> | <i>Aug 2018 - May 2020</i><br>
 
 
-
-
-
-
 <b>University of Buenos Aires (UBA), Buenos Aires, Argentina</b> | <i>Mar 2009 - Nov 2014</i><br>
 Licensure in Psychology<br>
 Teaching assistant positions:<br>
@@ -22,10 +18,17 @@ Teaching assistant positions:<br>
 <b>Autonomous University of Madrid (UAM), Madrid, Spain - Santander Scholarship</b> | <i>Jan 2013 - Jul 2013</i><br>
 International exchange student
 
-<h2>PROFESSIONAL EXPERIENCE</h2>
 
-<h3>Data Scientist - Healthcare Analytics</h3>
-<b>Departamento de Informática en Salud del Hospital Italiano </b> | <i>July 2020 - Present</i>
+<h3>Data Science Mentor</h3>
+<b>ACAMICA, Buenos aires, Argentina </b>| <i>Sept 2020 - Present</i><br>
+•	I teach the first module of the Data Science career<br>
+•	Topics includes: Introduction to Python, Statistics, Probability and Machine Learning<br>
+
+<h3>Data Scientist - Healthcare Analytics </h3>
+<b> Departamento de Informática en Salud del Hospital Italiano </b>| <i>July 2020 - Dec 2020</i><br>
+•	Programmed an interactive dashboard using Shiny (R) as a tool to infer which members of the health plan are profitable clients and to suggest possible strategies to retain leaving members.<br>
+•	Applied APIs to georeference all the members from the health plan to perform distance and density analysis in the future.<br>
+•	Design and taught Python courses for medical residents.<br>
 
 <h3>Data Science Intern</h3>
 
@@ -60,8 +63,8 @@ International exchange student
 <b>Programming Languages:</b> Python, MATLAB<br>
 <b>Databases:</b>  MySQL, Neo4j, Hadoop, Spark<br> 
 <b>Statistics:</b> R, SPSS<br>
-<b>Frameworks:</b> NumPy, SciPy, Pandas , Scikit-learn, dplyr, EEGLAB, MNE<br>
-<b>Visualization:</b> Tableau, PowerBI, Matplotlib, Seaborn, ggplot2, Plotly<br>
+<b>Frameworks:</b> NumPy, SciPy, Pandas , Scikit-learn, dplyr, TensorFlow, Docker<br>
+<b>Visualization:</b> Tableau, Matplotlib, Seaborn, ggplot2, Plotly<br>
 <b>Cloud Computing:</b> AWS , Google Cloud <br>
 
 <h2>SCIENTIFIC PUBLICATIONS</h2> 

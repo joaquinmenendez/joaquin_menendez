@@ -18,8 +18,17 @@ Teaching assistant positions:<br>
 International exchange student
 
 <h2>PROFESSIONAL EXPERIENCE</h2>
-<h3>Data Scientist - Healthcare Analytics</h3>
-<b>Departamento de Informática en Salud del Hospital Italiano </b> | <i>July 2020 - Present</i>
+
+<h3>Data Science Mentor</h3>
+<b>ACAMICA, Buenos aires, Argentina </b>| <i>Sept 2020 - Present</i><br>
+•	I teach the first module of the Data Science career<br>
+•	Topics includes: Introduction to Python, Statistics, Probability and Machine Learning<br>
+
+<h3>Data Scientist - Healthcare Analytics </h3>
+<b> Departamento de Informática en Salud del Hospital Italiano </b>| <i>July 2020 - Dec 2020</i><br>
+•	Programmed an interactive dashboard using Shiny (R) as a tool to infer which members of the health plan are profitable clients and to suggest possible strategies to retain leaving members.<br>
+•	Applied APIs to georeference all the members from the health plan to perform distance and density analysis in the future.<br>
+•	Design and taught Python courses for medical residents.<br>
 
 <h3>Data Science Intern</h3>
 <b>Duke Forge, Durham, United States</b> | <i>May 2019 - Aug 2019</i> <br>
@@ -35,7 +44,7 @@ International exchange student
 - Advised three undergraduate thesis.<br>
 
 <h3>Research Assistant</h3>
-<b>Behavioral Biology Lab (IByME-CONICET), Buenos Aires, Argentina</b> | <i>Sep 2015 - Aug 2018</i><br>
+<b>Behavioral Biology Lab (IByME-CONICET), Buenos Aires, Argentina</b> | <i>Sept 2015 - Aug 2018</i><br>
 - Investigated categorical learning using Electroencephalography registers (ERP) and behavioural data.<br>
 - Designed and programmed computerized experiments in Python.<br>
 - Implemented a protocol of Electroencephalographic data processing in MATLAB involved epoch rejection and Independent Component Analysis (ICA).<br> 
@@ -50,7 +59,7 @@ International exchange student
 <b>Programming Languages:</b> Python, MATLAB<br>
 <b>Databases:</b>  MySQL, Neo4j, Hadoop, Spark<br> 
 <b>Statistics:</b> R, SPSS<br>
-<b>Frameworks:</b> NumPy, SciPy, Pandas , Scikit-learn, dplyr, EEGLAB, MNE<br>
+<b>Frameworks:</b> NumPy, SciPy, Pandas , Scikit-learn, dplyr, TensorFlow, Docker<br>
 <b>Visualization:</b> Tableau, Matplotlib, Seaborn, ggplot2, Plotly<br>
 <b>Cloud Computing:</b> AWS , Google Cloud <br>
 

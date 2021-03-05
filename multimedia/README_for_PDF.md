@@ -1,6 +1,6 @@
 <h1 align="center">Joaquin Menendez </h1>
 <p align="center">
-| Fray Justo Santa Maria de Oro 2366 - Capital Federal | 11-2255-9559 | joaquin.menendez@duke.edu |
+Palermo, Capital Federal  | 11-2255-9559  | joaquin14@gmial.com
 </p>
 
 <h2>EDUCATION</h2>
@@ -21,6 +21,12 @@ International exchange student
 
 <h2>PROFESSIONAL EXPERIENCE</h2>
 
+<h3>Data Scientist</h3>
+<b>Globant, Buenos Aires, Argentina</b>| <i>Nov 2020 - Present</i><br>
+ • Deliver data-based solutions (including Machine Learning and Deep Learning) applying Natural Language Processing (NLP) techniques.<br>
+ • Perform data exploration and generation of insights.
+ 
+ 
 <h3>Data Science Mentor</h3>
 <b>ACAMICA, Buenos aires, Argentina </b>| <i>Sept 2020 - Present</i><br>
 •	I teach the first module of the Data Science career<br>

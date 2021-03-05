@@ -20,7 +20,7 @@ International exchange student
 <h2>PROFESSIONAL EXPERIENCE</h2>
 
 <h3>Data Scientist</h3>
-<b>Globant, Buenos Aires, Argentina<b>| <i>Nov 2020 - Present</i><br>
+<b>Globant, Buenos Aires, Argentina</b>| <i>Nov 2020 - Present</i><br>
  • Deliver data-based solutions (including Machine Learning and Deep Learning) applying Natural Language Processing (NLP) techniques.<br>
  • Perform data exploration and generation of insights.
  

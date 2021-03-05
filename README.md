@@ -1,13 +1,12 @@
 <h1 align="center">Joaquin Menendez </h1>
 <p align="center">
-| :house: Fray Justo Santa Maria de Oro 2366 - Capital Federal | :telephone_receiver:11-2255-9559 | :email: joaquin.menendez@duke.edu |
+| :house: Palermo, Capital Federal | :telephone_receiver:11-2255-9559 | :email: joaquin14@gmail.com |
 </p>
 
 <h2>EDUCATION</h2>
 
 <b>Duke University, North Carolina, United States</b><br>
 <b>Master in Interdisciplinary Data Science (MIDS) - Fulbright Scholarship</b> | <i>Aug 2018 - May 2020</i><br>
-
 
 <b>University of Buenos Aires (UBA), Buenos Aires, Argentina</b> | <i>Mar 2009 - Nov 2014</i><br>
 Licensure in Psychology<br>
@@ -18,7 +17,13 @@ Teaching assistant positions:<br>
 <b>Autonomous University of Madrid (UAM), Madrid, Spain - Santander Scholarship</b> | <i>Jan 2013 - Jul 2013</i><br>
 International exchange student
 
+<h2>PROFESSIONAL EXPERIENCE</h2>
 
+<h3>Data Scientist Globant</h3>
+<b>Globant, Buenos Aires, Argentina<b>| <i>Nov 2020 - Present</i><br>
+ • Deliver data-based solutions (including Machine Learning and Deep Learning) applying Natural Language Processing (NLP) techniques
+ • Perform data exploration and generation of insights
+ 
 <h3>Data Science Mentor</h3>
 <b>ACAMICA, Buenos aires, Argentina </b>| <i>Sept 2020 - Present</i><br>
 •	I teach the first module of the Data Science career<br>

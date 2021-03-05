@@ -1,6 +1,6 @@
 <h1 align="center">Joaquin Menendez </h1>
 <p align="center">
-Palermo, Capital Federal  | 11-2255-9559  | joaquin14@gmial.com
+Palermo, Capital Federal  | 11-2255-9559  | joaquin14@gmail.com
 </p>
 
 <h2>EDUCATION</h2>

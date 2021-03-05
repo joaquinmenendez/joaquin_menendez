@@ -19,10 +19,10 @@ International exchange student
 
 <h2>PROFESSIONAL EXPERIENCE</h2>
 
-<h3>Data Scientist Globant</h3>
+<h3>Data Scientist</h3>
 <b>Globant, Buenos Aires, Argentina<b>| <i>Nov 2020 - Present</i><br>
- • Deliver data-based solutions (including Machine Learning and Deep Learning) applying Natural Language Processing (NLP) techniques
- • Perform data exploration and generation of insights
+ • Deliver data-based solutions (including Machine Learning and Deep Learning) applying Natural Language Processing (NLP) techniques.<br>
+ • Perform data exploration and generation of insights.
  
 <h3>Data Science Mentor</h3>
 <b>ACAMICA, Buenos aires, Argentina </b>| <i>Sept 2020 - Present</i><br>

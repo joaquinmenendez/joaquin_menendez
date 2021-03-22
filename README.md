@@ -26,8 +26,8 @@ International exchange student
  
 <h3>Data Science Mentor</h3>
 <b>ACAMICA, Buenos aires, Argentina </b>| <i>Sept 2020 - Present</i><br>
-•	I teach the first module of the Data Science career<br>
-•	Topics includes: Introduction to Python, Statistics, Probability and Machine Learning<br>
+•	Currently teaching the first module of the Data Science career<br>
+•	Topics taught: Introduction to Python, Statistics, Probability and Machine Learning<br>
 
 <h3>Data Scientist - Healthcare Analytics </h3>
 <b> Departamento de Informática en Salud del Hospital Italiano </b>| <i>July 2020 - Dec 2020</i><br>

@@ -1,6 +1,6 @@
 <h1 align="center">Joaquin Menendez </h1>
 <p align="center">
-:house:  Palermo, Capital Federal  |  :telephone_receiver: 11-2255-9559  |  :email:  joaquin14@gmail.com 
+:house:  Palermo, Capital Federal  |  :telephone_receiver: 1122559559  |  :email:  joaquin14@gmail.com 
 </p>
 
 <h2>EDUCATION</h2>
@@ -20,12 +20,23 @@ International exchange student
 <h2>PROFESSIONAL EXPERIENCE</h2>
 
 <h3>Data Scientist</h3>
-<b>Globant, Buenos Aires, Argentina</b>| <i>Nov 2020 - Present</i><br>
- • Deliver data-based solutions (including Machine Learning and Deep Learning) applying Natural Language Processing (NLP) techniques.<br>
- • Perform data exploration and generation of insights.
- 
+<b>RGA, Buenos Aires, Argentina</b>| <i>Apr 2021 - Present</i><br>
+Currently working at Data & Marketing Science Studio
+Some of my task includes: 
+
+- Data Analytics (Big Query, Data Studio)
+- Deep Learning (NLP)
+- Data Engineering on the cloud (Cloud Functions, AI jobs, Storage )
+- Report Generation
+- Data Consulting
+
+<h3>Data Scientist</h3>
+<b>Globant, Buenos Aires, Argentina</b>| <i>Oct 2020 - Apr 2021</i><br>
+• Delivered data-based solutions applying Natural Language Processing (NLP) techniques.<br>
+• Performed data exploration and generation of insights.<br>
+
 <h3>Data Science Mentor</h3>
-<b>ACAMICA, Buenos aires, Argentina </b>| <i>Sept 2020 - Present</i><br>
+<b>ACAMICA, Buenos aires, Argentina </b>| <i>Sept 2020 - Apr 2021</i><br>
 •	Currently teaching the first module of the Data Science career<br>
 •	Topics taught: Introduction to Python, Statistics, Probability and Machine Learning<br>
 

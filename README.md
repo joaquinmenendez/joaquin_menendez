@@ -6,7 +6,7 @@
 <h2>EDUCATION</h2>
 
 <b>Duke University, North Carolina, United States</b><br>
-<b>Master in Interdisciplinary Data Science (MIDS) - Fulbright Scholarship</b> | <i>Aug 2018 - May 2020</i><br>
+<b>MSc in Interdisciplinary Data Science (MIDS) - Fulbright Scholarship</b> | <i>Aug 2018 - May 2020</i><br>
 
 <b>University of Buenos Aires (UBA), Buenos Aires, Argentina</b> | <i>Mar 2009 - Nov 2014</i><br>
 Licensure in Psychology<br>

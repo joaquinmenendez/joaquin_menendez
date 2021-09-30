@@ -25,7 +25,7 @@ Currently working at Data & Marketing Science Studio. Some of my tasks include:
 
 - Data Analytics (Big Query, Data Studio)
 - Deep Learning (NLP)
-- Data Engineering on the cloud (Cloud Functions, AI jobs, Storage )
+- Data Engineering on the cloud (Cloud Functions, AI jobs, Storage)
 - Report Generation
 - Data Consulting
 

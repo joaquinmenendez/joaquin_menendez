@@ -21,7 +21,7 @@ International exchange student
 
 <h3>Data Scientist</h3>
 <b>RGA, Buenos Aires, Argentina</b>| <i>Apr 2021 - Present</i><br>
-Currently working at Data & Marketing Science Studio. Some of my task includes: 
+Currently working at Data & Marketing Science Studio. Some of my tasks include: 
 
 - Data Analytics (Big Query, Data Studio)
 - Deep Learning (NLP)

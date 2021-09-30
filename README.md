@@ -117,5 +117,5 @@ exchange student.  Chosen as a recipient due to academic merit.
 
 [Coursera Profile](https://www.coursera.org/account/accomplishments/professional-cert/Y3K8WFYF4NNY?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)
 
-[![Coursera profile](https://user-images.githubusercontent.com/43391630/135486824-a276cf1d-4f24-4e58-94d2-07f5190a522f.png)]
+![Coursera profile](https://user-images.githubusercontent.com/43391630/135486824-a276cf1d-4f24-4e58-94d2-07f5190a522f.png)
 (https://www.coursera.org/account/accomplishments/professional-cert/Y3K8WFYF4NNY?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)

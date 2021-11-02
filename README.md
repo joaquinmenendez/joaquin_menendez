@@ -88,7 +88,7 @@ Currently working at Data & Marketing Science Studio. Some of my tasks include:
 - Idesis, S. A., D’Amelio, T. A., Batán, S. T., <b>Menendez, J.</b>, & Polti, I. (2018). [Electrodermal and behavioral response to emotional Spanish words in native speakers.](https://dialnet.unirioja.es/servlet/articulo?codigo=6626839) Revista Argentina de Ciencias del Comportamiento (RACC), 10(1), 43-54. </b>
 - <b>Menendez, J.</b>, Sanchez, F.J., Avellaneda, M., Idesis, S.A., Iorio, A.A. (2017) [Effects of Mixed Training Structures on Equivalence Class Formation.](https://www.redalyc.org/pdf/560/56054637007.pdf) International Journal of Psychology and Psychological Therapy, 17(3), 291-303. <br>
 - Avellaneda, M., <b>Menéndez, J.</b>, Santillán, M., Sánchez, F., Idesis, S., Papagna, V., & Iorio, A. (2016). [Equivalence Class Formation is Influenced by Stimulus Contingency.](https://www.researchgate.net/publication/304191857_Equivalence_Class_Formation_is_Influenced_by_Stimulus_Contingency) The Psychological Record, 66(3), 477-487. <br>
-
+- Güemes, M.,<b> Menéndez, J. </b>, Gattei, C., Demattíes, D., Iorio, A., & Wainselboim, A. (2021).[Neural correlates of semantic integration in Spanish verb-noun compounds: an ERP study](https://doi.org/10.1080/23273798.2021.1993283). Language, Cognition and Neuroscience, 1-15.
 
 <h2>HONORS AND AWARDS</h2>  
 

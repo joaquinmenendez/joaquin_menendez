@@ -19,7 +19,7 @@ International exchange student
 
 <h2>PROFESSIONAL EXPERIENCE</h2>
 
-<h3>Data Scientist</h3>
+<h3>Sr. Data Scientist</h3>
 <b>RGA, Buenos Aires, Argentina</b>| <i>Apr 2021 - Present</i><br>
 Currently working at Data & Marketing Science Studio. Some of my tasks include: 
 
@@ -119,5 +119,7 @@ exchange student.  Chosen as a recipient due to academic merit.
 
 [![Coursera profile](https://user-images.githubusercontent.com/43391630/135486824-a276cf1d-4f24-4e58-94d2-07f5190a522f.png)](https://www.coursera.org/account/accomplishments/professional-cert/Y3K8WFYF4NNY?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)
 &emsp;[Coursera Profile](https://www.coursera.org/account/accomplishments/professional-cert/Y3K8WFYF4NNY?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)
+
+[![Associate Cloud Engineer](https://arki1.com/wp-content/uploads/2020/02/badge-gcp-associate-cloud-engineer.png)]&emsp;[Google Associate Cloud Engineer](https://googlecloudcertified.credential.net/profile/7201fc07ffc5db7c35f886a6cf707945063af9ca)
 
 

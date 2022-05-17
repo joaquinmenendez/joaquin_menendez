@@ -111,6 +111,9 @@ exchange student.  Chosen as a recipient due to academic merit.
 
 ----
 
+[![Associate Cloud Engineer](https://user-images.githubusercontent.com/43391630/168849849-2b9361ab-7bf0-4587-9d6f-566b45383e0b.png)](https://googlecloudcertified.credential.net/profile/7201fc07ffc5db7c35f886a6cf707945063af9ca)
+&emsp;[Google Associate Cloud Engineer](https://googlecloudcertified.credential.net/profile/7201fc07ffc5db7c35f886a6cf707945063af9ca)
+
 [![Google Scholar profile](https://user-images.githubusercontent.com/43391630/135490896-e56e0056-f2d1-4b93-b3f6-b32c9678e1c0.png)](https://scholar.google.com/citations?user=QXAVig4AAAAJ&hl=en)
 &emsp;[Google Scholar profile](https://scholar.google.com/citations?user=QXAVig4AAAAJ&hl=en)  <br>
 
@@ -119,8 +122,3 @@ exchange student.  Chosen as a recipient due to academic merit.
 
 [![Coursera profile](https://user-images.githubusercontent.com/43391630/135486824-a276cf1d-4f24-4e58-94d2-07f5190a522f.png)](https://www.coursera.org/account/accomplishments/professional-cert/Y3K8WFYF4NNY?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)
 &emsp;[Coursera Profile](https://www.coursera.org/account/accomplishments/professional-cert/Y3K8WFYF4NNY?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)
-
-[![Associate Cloud Engineer](https://images.credential.net/badge/tiny/p0conadj_1649286597282_badge.png)](https://googlecloudcertified.credential.net/profile/7201fc07ffc5db7c35f886a6cf707945063af9ca)
-&emsp;[Google Associate Cloud Engineer](https://googlecloudcertified.credential.net/profile/7201fc07ffc5db7c35f886a6cf707945063af9ca)
-
-

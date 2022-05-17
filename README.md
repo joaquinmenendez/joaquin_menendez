@@ -79,7 +79,7 @@ Currently working at Data & Marketing Science Studio. Some of my tasks include:
 <b>Databases:</b>  MySQL, Neo4j, Hadoop, Spark<br> 
 <b>Statistics:</b> R, SPSS<br>
 <b>Frameworks:</b> NumPy, SciPy, Pandas , Scikit-learn, dplyr, TensorFlow, Docker<br>
-<b>Visualization:</b> Tableau, Matplotlib, Seaborn, ggplot2, Plotly<br>
+<b>Visualization:</b> Tableau, PoerBI, Google Data Studio, Matplotlib, Seaborn, ggplot2, Plotly<br>
 <b>Cloud Computing:</b> AWS , Google Cloud <br>
 
 <h2>SCIENTIFIC PUBLICATIONS</h2> 

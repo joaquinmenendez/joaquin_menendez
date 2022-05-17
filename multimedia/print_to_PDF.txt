@@ -1,0 +1,5 @@
+Steps to print into pdf
+- pip install grip
+
+1. In terminal: grip joaquin_menendez.md
+2. In web page: Inspecr -> delete header -> print as PDF

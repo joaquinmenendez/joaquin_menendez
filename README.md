@@ -36,7 +36,7 @@ Currently working at Data & Marketing Science Studio. Some of my tasks include:
 
 <h3>Data Science Mentor</h3>
 <b>ACAMICA, Buenos aires, Argentina </b>| <i>Sept 2020 - Apr 2021</i><br>
-•	Currently teaching the first module of the Data Science career<br>
+•	Taught first module of the Data Science career ()<br>
 •	Topics taught: Introduction to Python, Statistics, Probability and Machine Learning<br>
 
 <h3>Data Scientist - Healthcare Analytics </h3>

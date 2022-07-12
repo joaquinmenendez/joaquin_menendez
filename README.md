@@ -76,11 +76,11 @@ Currently working at Data & Marketing Science Studio. Some of my tasks include:
 
 <h2>SOFTWARE SKILLS</h2>
 <b>Programming Languages:</b> Python, MATLAB<br>
-<b>Databases:</b>  MySQL, Neo4j, Hadoop, Spark<br> 
+<b>Databases:</b>  MySQL, PostgreSQL, Big Query<br> 
 <b>Statistics:</b> R, SPSS<br>
 <b>Frameworks:</b> NumPy, SciPy, Pandas , Scikit-learn, dplyr, TensorFlow, Docker<br>
 <b>Visualization:</b> Tableau, PoerBI, Google Data Studio, Matplotlib, Seaborn, ggplot2, Plotly<br>
-<b>Cloud Computing:</b> AWS , Google Cloud <br>
+<b>Cloud Computing:</b> AWS , GCP <br>
 
 <h2>SCIENTIFIC PUBLICATIONS</h2> 
 

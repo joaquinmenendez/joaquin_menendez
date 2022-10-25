@@ -120,5 +120,5 @@ exchange student.  Chosen as a recipient due to academic merit.
 &emsp;[Google Scholar profile](https://scholar.google.com/citations?user=QXAVig4AAAAJ&hl=en) &emsp;|&emsp;
 [![Linkedin profile](https://user-images.githubusercontent.com/43391630/135490630-9c1bb137-2663-488a-96e5-919252be9b09.png)](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US)
 &emsp;[Likedin profile](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US) &emsp;|&emsp;
-[![Coursera profile](https://user-images.githubusercontent.com/43391630/135486824-a276cf1d-4f24-4e58-94d2-07f5190a522f.png)](https://www.coursera.org/account/accomplishments/professional-cert/Y3K8WFYF4NNY?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)
+[![Coursera profile](https://user-images.githubusercontent.com/43391630/197793899-2565cae8-19b4-4e86-9035-a60bdae34193.png)](https://www.coursera.org/account/accomplishments/professional-cert/Y3K8WFYF4NNY?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)
 &emsp;[Coursera Profile](https://www.coursera.org/account/accomplishments/professional-cert/Y3K8WFYF4NNY?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)

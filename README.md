@@ -83,6 +83,7 @@ Currently working at Data & Marketing Science Studio. Some of my tasks include:
 <b>Software engineering:</b> FastAPI, Flask, Docker<br>
 <b>Cloud Computing:</b> AWS , GCP<br>
 
+
 ![Associate Cloud Engineer](https://user-images.githubusercontent.com/43391630/197794436-3b8716a3-55dd-4417-a6b2-bcc7bae3f75a.png)
 [Google Associate Cloud Engineer](https://googlecloudcertified.credential.net/profile/7201fc07ffc5db7c35f886a6cf707945063af9ca)
 

@@ -115,7 +115,6 @@ Full scholarship to attend a semester at the Autonomous University of Madrid as 
 exchange student.  Chosen as a recipient due to academic merit.
 
 ----
-https://user-images.githubusercontent.com/43391630/197795700-6e8cf9d8-cf6a-4680-aefc-3ddf58298a7d.png
 
 [![Google Scholar profile](https://user-images.githubusercontent.com/43391630/135490896-e56e0056-f2d1-4b93-b3f6-b32c9678e1c0.png)](https://scholar.google.com/citations?user=QXAVig4AAAAJ&hl=en)
 [Google Scholar profile](https://scholar.google.com/citations?user=QXAVig4AAAAJ&hl=en) &emsp;|&emsp;

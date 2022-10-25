@@ -82,6 +82,7 @@ Currently working at Data & Marketing Science Studio. Some of my tasks include:
 <b>Visualization:</b> Tableau, PowerBI, Google Data Studio, Dash, Plotly, Seaborn, Matplotlib<br>
 <b>Software engineering:</b> FastAPI, Flask, Docker
 <b>Cloud Computing:</b> AWS , GCP <br>
+
 [![Associate Cloud Engineer](https://user-images.githubusercontent.com/43391630/168849849-2b9361ab-7bf0-4587-9d6f-566b45383e0b.png)](https://googlecloudcertified.credential.net/profile/7201fc07ffc5db7c35f886a6cf707945063af9ca)
 &emsp;[Google Associate Cloud Engineer](https://googlecloudcertified.credential.net/profile/7201fc07ffc5db7c35f886a6cf707945063af9ca)
 
@@ -116,10 +117,10 @@ exchange student.  Chosen as a recipient due to academic merit.
 
 
 [![Google Scholar profile](https://user-images.githubusercontent.com/43391630/135490896-e56e0056-f2d1-4b93-b3f6-b32c9678e1c0.png)](https://scholar.google.com/citations?user=QXAVig4AAAAJ&hl=en)
-&emsp;[Google Scholar profile](https://scholar.google.com/citations?user=QXAVig4AAAAJ&hl=en) /t|/t
+&emsp;[Google Scholar profile](https://scholar.google.com/citations?user=QXAVig4AAAAJ&hl=en) <t>|<t>
 
 [![Linkedin profile](https://user-images.githubusercontent.com/43391630/135490630-9c1bb137-2663-488a-96e5-919252be9b09.png)](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US)
-&emsp;[Likedin profile](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US) /t|/t
+&emsp;[Likedin profile](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US) <t>|<t>
 
 [![Coursera profile](https://user-images.githubusercontent.com/43391630/135486824-a276cf1d-4f24-4e58-94d2-07f5190a522f.png)](https://www.coursera.org/account/accomplishments/professional-cert/Y3K8WFYF4NNY?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)
 &emsp;[Coursera Profile](https://www.coursera.org/account/accomplishments/professional-cert/Y3K8WFYF4NNY?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)

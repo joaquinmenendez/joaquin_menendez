@@ -1,6 +1,6 @@
 <h1 align="center">Joaquin Menendez </h1>
 <p align="center">
-:house:  Palermo, Capital Federal  |  :telephone_receiver: 1122559559  |  :email:  joaquin14@gmail.com 
+:house:   Capital Federal, Argentina  |  :telephone_receiver: 1122559559  |  :email:  joaquin14@gmail.com 
 </p>
 
 <h2>EDUCATION</h2>

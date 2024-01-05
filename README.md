@@ -20,7 +20,8 @@ International exchange student
 <h2>PROFESSIONAL EXPERIENCE</h2>
 
 <h3>AI Cloud Engineer</h3>
-<b>Google, Buenos Aires, Argentina</b>| <i>Aug 2023 - Present</i><br>
+<b>Google, Buenos Aires, Argentina</b> | <i>Aug 2023 - Present</i><br>
+
 - Design and implement custom AI solutions for Google Cloud customers using large language models, addressing specific business needs and challenges. 
 - Collaborate with customers, partners, and Google product teams to bring AI projects from ideation to deployment, ensuring successful integration and production readiness. 
 - Develop and deliver educational materials like workshops, tutorials, and presentations, empowering customers to effectively utilize AI technology and maximize its impact. 
@@ -92,6 +93,7 @@ Worked at the Data & Marketing Science Studio. Some of my tasks included:
 <b>Cloud Computing:</b> AWS , GCP<br>
 
 <h3>Google Cloud Certifications</h3>
+
 - [Google Associate Cloud Engineer](https://googlecloudcertified.credential.net/profile/7201fc07ffc5db7c35f886a6cf707945063af9ca)
 - [Professional Machine Learning Engineer](https://googlecloudcertified.credential.net/profile/7201fc07ffc5db7c35f886a6cf707945063af9ca)
 

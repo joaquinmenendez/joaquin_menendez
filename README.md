@@ -1,6 +1,6 @@
 <h1 align="center">Joaquin Menendez </h1>
 <p align="center">
-:house:   Capital Federal, Argentina  |  :telephone_receiver: 1122559559  |  :email:  joaquin14@gmail.com 
+:house:   Capital Federal, Argentina  |  :telephone_receiver: 1122559559  |  :email:  joaquin14@gmail.com | :link: <a href="[LinkTree](https://linktr.ee/joaquinmenendez)">LinkTree</a>
 </p>
 
 <h2>EDUCATION</h2>
@@ -19,12 +19,20 @@ International exchange student
 
 <h2>PROFESSIONAL EXPERIENCE</h2>
 
+<h3>AI Cloud Engineer</h3>
+<b>Google, Buenos Aires, Argentina</b>| <i>Aug 2023 - Present</i><br>
+- Design and implement custom AI solutions for Google Cloud customers using large language models, addressing specific business needs and challenges. 
+- Collaborate with customers, partners, and Google product teams to bring AI projects from ideation to deployment, ensuring successful integration and production readiness. 
+- Develop and deliver educational materials like workshops, tutorials, and presentations, empowering customers to effectively utilize AI technology and maximize its impact. 
+- Provide expert technical guidance and mentorship to customers on practical aspects of machine learning systems, including data preparation, model monitoring, and feature management.
+
+
 <h3>Sr. Data Scientist</h3>
-<b>RGA, Buenos Aires, Argentina</b>| <i>Apr 2021 - Present</i><br>
-Currently working at Data & Marketing Science Studio. Some of my tasks include: 
+<b>RGA, Buenos Aires, Argentina</b>| <i>Apr 2021 - Aug 2023</i><br>
+Worked at the Data & Marketing Science Studio. Some of my tasks included: 
 
 - Data Analytics (Big Query, Data Studio)
-- Deep Learning (NLP)
+- Apply Deep Learning (NLP, LLMs, Machine Learning models)
 - Data Engineering on the cloud (Cloud Functions, AI jobs, Storage)
 - Report Generation
 - Data Consulting
@@ -48,7 +56,7 @@ Currently working at Data & Marketing Science Studio. Some of my tasks include:
 <h3>Data Science Intern</h3>
 
 <b>Duke Forge, Durham, United States</b> | <i>May 2019 - Aug 2019</i> <br>
-- Examined the link between social determinants and risk prediction for hospital admissions, and which assessed whether social determinants affect that risk in a systematic way. [[Link]](https://github.com/joaquinmenendez/resume/blob/master/multimedia/Data%2B%20Final%20poster.pdf)<br>
+- Examined the link between social determinants and risk prediction for hospital admissions, and which assessed whether social determinants affect that risk in a systematic way. [Poster](https://github.com/joaquinmenendez/resume/blob/master/multimedia/Data%2B%20Final%20poster.pdf)<br>
 - Applied methods of machine learning, risk prediction, and assessment of classification bias.<br>
 - Programed an interactive dashboard using Plotly (Dash) in order to explore classification bias on different variables.<br>
 - Presented results to different stakeholders (researchers, physicians and hospital managers) and maintained dialogue to inform the direction of our analysis.  
@@ -83,9 +91,9 @@ Currently working at Data & Marketing Science Studio. Some of my tasks include:
 <b>Software engineering:</b> FastAPI, Flask, Docker<br>
 <b>Cloud Computing:</b> AWS , GCP<br>
 
-
-[![Associate Cloud Engineer](https://user-images.githubusercontent.com/43391630/197794436-3b8716a3-55dd-4417-a6b2-bcc7bae3f75a.png)](https://googlecloudcertified.credential.net/profile/7201fc07ffc5db7c35f886a6cf707945063af9ca)
-[Google Associate Cloud Engineer](https://googlecloudcertified.credential.net/profile/7201fc07ffc5db7c35f886a6cf707945063af9ca)
+<h3>Google Cloud Certifications</h3>
+- [Google Associate Cloud Engineer](https://googlecloudcertified.credential.net/profile/7201fc07ffc5db7c35f886a6cf707945063af9ca)
+- [Professional Machine Learning Engineer](https://googlecloudcertified.credential.net/profile/7201fc07ffc5db7c35f886a6cf707945063af9ca)
 
 <h2>SCIENTIFIC PUBLICATIONS</h2> 
 
@@ -113,12 +121,6 @@ One year funded undergraduate research assistant position for an investigation g
 <b>UAM – Santander Scholarship</b> | <i>November 2013</i><br>
 Full scholarship to attend a semester at the Autonomous University of Madrid as an
 exchange student.  Chosen as a recipient due to academic merit.
-
-----
-
-[![Google Scholar profile](https://user-images.githubusercontent.com/43391630/135490896-e56e0056-f2d1-4b93-b3f6-b32c9678e1c0.png)](https://scholar.google.com/citations?user=QXAVig4AAAAJ&hl=en)
-[Google Scholar profile](https://scholar.google.com/citations?user=QXAVig4AAAAJ&hl=en) &emsp;|&emsp;
-[![Linkedin profile](https://user-images.githubusercontent.com/43391630/197795700-6e8cf9d8-cf6a-4680-aefc-3ddf58298a7d.png)](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US)
 [Likedin profile](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US) &emsp;|&emsp;
 [![Coursera profile](https://user-images.githubusercontent.com/43391630/197793899-2565cae8-19b4-4e86-9035-a60bdae34193.png)](https://www.coursera.org/account/accomplishments/professional-cert/Y3K8WFYF4NNY?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)
 [Coursera Profile](https://www.coursera.org/account/accomplishments/professional-cert/Y3K8WFYF4NNY?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)

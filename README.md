@@ -1,6 +1,6 @@
 <h1 align="center">Joaquin Menendez </h1>
 <p align="center">
-:house:   Capital Federal, Argentina  |  :telephone_receiver: 1122559559  |  :email:  joaquin14@gmail.com | :link: <a href="[LinkTree](https://linktr.ee/joaquinmenendez)">LinkTree</a>
+:house:   Capital Federal, Argentina  |  :telephone_receiver: 1122559559  |  :email:  joaquin14@gmail.com  |  :link: <a href=https://linktr.ee/joaquinmenendez>LinkTree</a>
 </p>
 
 <h2>EDUCATION</h2>
@@ -123,6 +123,3 @@ One year funded undergraduate research assistant position for an investigation g
 <b>UAM – Santander Scholarship</b> | <i>November 2013</i><br>
 Full scholarship to attend a semester at the Autonomous University of Madrid as an
 exchange student.  Chosen as a recipient due to academic merit.
-[Likedin profile](https://www.linkedin.com/in/joaquin-menendez/?locale=en_US) &emsp;|&emsp;
-[![Coursera profile](https://user-images.githubusercontent.com/43391630/197793899-2565cae8-19b4-4e86-9035-a60bdae34193.png)](https://www.coursera.org/account/accomplishments/professional-cert/Y3K8WFYF4NNY?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)
-[Coursera Profile](https://www.coursera.org/account/accomplishments/professional-cert/Y3K8WFYF4NNY?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)
